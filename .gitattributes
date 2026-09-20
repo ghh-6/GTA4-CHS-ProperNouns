@@ -1,0 +1,7 @@
+*.bat -text
+*.asi -text
+*.gxt -text
+*.wtd -text
+*.dat -text
+*.tsv -text
+*.zip -text
