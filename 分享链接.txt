@@ -1,0 +1,22 @@
+﻿# 分享链接（GTA4 汉化补丁之补丁 · 含AI翻译 v1.0）
+
+## 网盘（百度网盘）
+
+通过网盘分享的文件：**GTA4汉化补丁之补丁（含AI翻译）v1.0.zip**
+
+- 链接：https://pan.baidu.com/s/1YLMsVCKzbsIls-rxeBAvOQ?pwd=db7t
+- 提取码：**db7t**
+
+## GitHub
+
+- 仓库：https://github.com/ghh-6/GTA4-CHS-ProperNouns
+- 发布页（Release）：https://github.com/ghh-6/GTA4-CHS-ProperNouns/releases/tag/v1.0
+- **直接下载 zip**：https://github.com/ghh-6/GTA4-CHS-ProperNouns/releases/download/v1.0/GTA4-CHS-ProperNouns-v1.0.zip
+
+## 使用前必读
+
+1. **必须先安装原汉化补丁（2024-09-13 版）**——本补丁是"补丁的补丁"，不含原补丁文件。
+   原补丁获取：GitHub https://github.com/ckeleshi/GTA4.CHS ／ 官网 https://b9348.pages.dev/
+2. 把 zip **解压到一个独立文件夹**（不要解压进游戏目录），双击其中的 `安装.bat` ——
+   它会自动定位游戏本体，不需要放进游戏目录。
+3. 本补丁免费，仅供交流学习；请勿用于任何商业用途。详见包内 声明.txt。
